@@ -1,12 +1,7 @@
 ---
-title: Lagrange - Aula 11/06/22024
+title: Lagrange - Aula 11/06/2024
+date: 2024-06-11
 ---
-
-# Objetivo
-
-Desenvolver código para solucionar o valor interpolado via fórmula de lagrande.
-
-## Explicações
 
 O código em Python implementa a função de interpolação de Lagrange, que é usada no cálculo numérico para estimar valores intermediários entre pontos conhecidos.
 
